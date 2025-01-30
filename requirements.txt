@@ -1,0 +1,2 @@
+tkinter hashlib sqlite3 pytest
+
